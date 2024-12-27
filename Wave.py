@@ -6,3 +6,4 @@ from manim import *
 class Wave(Scene):
     def construct(self):
         pass
+        pass
